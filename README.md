@@ -62,60 +62,28 @@
 # Поддерживаемые единицы:
 
 Масса:
-kilogram
-gram
-pound
-tonne
-milligram
+kilogram, gram, pound, tonne, milligram
+
 Длина:
-meter
-kilometer
-centimeter
-decimeter
-millimeter
+meter, kilometer, centimeter, decimeter ,millimeter
 
 Площадь:
-square_meter
-square_kilometer
-square_centimeter
-square_decimeter
-square_millimeter
+square_meter, square_kilometer, square_centimeter, square_decimeter, square_millimeter
 
 Объём:
-volume_meter
-volume_kilometer
-volume_centimeter
-volume_decimeter
-volume_millimeter
-liter
+volume_meter, volume_kilometer, volume_centimeter, volume_decimeter, volume_millimeter, liter
 
 Скорость:
-meter_per_second
-kilometer_per_second
-kilometer_per_hour
-sea_speed
-Mach_number
+meter_per_seco, kilometer_per_second, kilometer_per_hour, sea_speed, Mach_number
 
 Давление:
-pascal
-atmosphere
-bar
-metres_of_the_water_column
-millimetres_of_the_mercury_column
+pascal, atmosphere, bar, metres_of_the_water_column, millimetres_of_the_mercury_column
 
 Углы:
-degrees
-radians
-grads
-turnovers
-sec
-min
-hour
+degrees, radians, grads, turnovers, sec, min, hour
 
 Температура:
-Celsius
-Fahrenheit
-Kelvin
+Celsius, Fahrenheit, Kelvin
 
 # Важные замечания:
 Программа повторяет запросы на ввод, если введены неверные данные (например, некорректное значение или неверный выбор).
